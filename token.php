@@ -15,7 +15,7 @@
 Access Key：<br/>
 <input type="text" name="access_key"><br/>
 Secret Key：</br>
-<input type="text" name="secret_key"><br/>
+<input type="password" name="secret_key"><br/>
 <button type="submit">生成</button>
 <a href="upload.php">返回<a>
 </form>
